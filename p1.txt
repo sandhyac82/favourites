@@ -1,3 +1,2 @@
 modified
-new 
 hello
